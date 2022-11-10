@@ -1,0 +1,5 @@
+*.exe
+*.pdb
+Projects/PuzzleBobble/.vs/
+Projects/PuzzleBobble/PuzzleBobble/Debug/
+Projects/PuzzleBobble/PuzzleBobble/x64/
